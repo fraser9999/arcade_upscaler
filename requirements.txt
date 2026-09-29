@@ -1,0 +1,14 @@
+# arcade_upscaler
+#
+# Python 3.10+ empfohlen
+#
+# Hinweis:
+# Für NVIDIA/CUDA sollte PyTorch passend zur lokal installierten
+# CUDA-/Treiberumgebung installiert werden. Die PyPI-Version ist
+# deshalb bewusst nicht auf eine bestimmte CUDA-Version festgelegt.
+
+torch
+numpy
+Pillow
+opencv-python
+scipy
